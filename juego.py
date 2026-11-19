@@ -1,3 +1,4 @@
+# Logica principal del juego Blackjack - Alumno A
 def calcular_puntuacion(mano):
     """Calcula los puntos totales de una mano ajustando el valor de los Ases (11 o 1)."""
     puntos = 0
